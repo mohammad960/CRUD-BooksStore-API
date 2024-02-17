@@ -42,12 +42,8 @@ npm install
 ```
 npm run dev
 
-Database Migrate :
-```
-php artisan migrate
+Database Migrate : php artisan migrate
 
-Run :
-```
-php artisan key:generate
+Run :php artisan key:generate
 
 
