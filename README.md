@@ -28,11 +28,18 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 -----------------------------------------------------------------------------------------------------
 For Backend
+## Project setup
 Copy .env-example as .env file
+```
 Create database and modify .env file with db name and db account details
+```
 Install venodr packages : composer install
+```
 npm install
+```
 npm run dev
+```
 Database Migrate : php artisan migrate
+```
 Run : php artisan key:generate
-
+```
